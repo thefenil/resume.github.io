@@ -1,0 +1,59 @@
+img{
+	height: 170px;
+
+}
+.about{	
+  position: absolute;
+  background : dodgerblue;
+  width: 1325px;
+  height: 180px;
+  right: 10px;  
+  top: 4px; 
+}
+.work{
+	position: absolute;
+  
+  width: 1325px;
+  height: 180px;
+  right: 10px;  
+  top: 181px; 
+
+}
+.organisation{
+	position: absolute;
+  
+  width: 1325px;
+  height: 180px;
+  right: 10px;  
+  top: 700px; 
+
+}
+.education{
+	position: absolute;
+  
+  width: 1325px;
+  height: 180p;
+  right: 10px;  
+  top: 875px; 
+}
+.awards{
+	position: absolute;
+  
+  width: 1325px;
+  height: 180p;
+  right: 10px;  
+  top: 1115px; 
+
+}
+.skills{
+	background: orange;
+	position: static;
+	height: 70px;
+  width: 120px; 
+}
+.language{
+  position: absolute;
+  width: 120px;
+  height: 700px; 
+  top: 500px; 
+}
